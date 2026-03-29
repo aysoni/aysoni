@@ -132,22 +132,6 @@ public class AyushSoni implements BackendEngineer {
 
 ---
 
-## 🏗️ Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🏛️ **OR IT Governance Dashboard** | Enterprise compliance & operational risk monitoring for BT Group — sub-second response under concurrent load | `Spring Boot` `WebLogic` `Oracle SQL` `Hibernate` |
-| 🔍 **OR Imperium** | Automated discrepancy detection between network topology & inventory — millions of records per run | `Spring Boot` `Kafka` `PostgreSQL` `Camunda BPM` |
-| 🌐 **Social Media Backend** | Scalable REST APIs for user management, posts, likes & comments with server-side pagination | `Spring Boot` `PostgreSQL` `JUnit` `REST` |
-
-</div>
-
-<br/>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
