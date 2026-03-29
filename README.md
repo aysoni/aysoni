@@ -23,9 +23,6 @@
   <a href="https://medium.com/@cyberAyu">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="https://t.me/EngggAsh">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
   <a href="https://github.com/aysoni">
     <img src="https://img.shields.io/github/followers/aysoni?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=b8f55a&labelColor=0d1117" alt="GitHub followers"/>
   </a>
