@@ -48,22 +48,20 @@
 
 ### 📊 My Stats
 
-<!-- Stats card -->
-<img src="https://github-readme-stats.vercel.app/api?username=aysoni&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="Ayush's GitHub stats" />
-<br/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysoni&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-<br/><br/>
-
-<!-- Streak — independent service, more reliable -->
+<!-- Streak — working ✅ -->
 <a href="https://streak-stats.demolab.com">
   <img src="https://streak-stats.demolab.com?user=aysoni&theme=radical&hide_border=true" alt="GitHub Streak" />
 </a>
 <br/><br/>
 
-<!-- Profile summary — third independent service as fallback -->
+<!-- Profile summary — working ✅ -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aysoni&theme=radical" alt="Profile Summary" />
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aysoni&theme=radical" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aysoni&theme=radical" alt="Most Commit Language" />
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aysoni&theme=radical" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aysoni&theme=radical&utcOffset=5.5" alt="Productive Time" />
 
 ---
 
