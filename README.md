@@ -63,9 +63,9 @@
 
 ### 📊 My Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=AyushSoni-git&show_icons=true&theme=radical" alt="Ayush's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=aysoni&show_icons=true&theme=radical" alt="Ayush's GitHub stats" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSoni-git&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysoni&layout=compact&theme=radical" alt="Top Languages" />
 
 ---
 
