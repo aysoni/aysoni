@@ -1,28 +1,88 @@
-<p><img src="https://i.imgur.com/PhMsL5F.gif" width="300" alt="animated hello"><img src="https://i.imgur.com/uDZO0ho.gif" alt="Hello" width="250" /> </p>
 <p>
-Hey, I am Ayush, undertaking my Bachelor&#39;s from the DIT University in Artificial Intelligence & Data Science in <img src="https://i.imgur.com/DzzzpBo.png" width="13" /> <b>Dehradun, India</b>. I was born in <img src="https://i.imgur.com/DzzzpBo.png" width="13" /> <b>Rawatbhata, India</b>. </p>
-
-<h3><img src="https://i.imgur.com/84QPnNl.png" width="18" /> My Stats</h3>
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=AyushSoni-git&show_icons=true&theme=radical"
-    alt="Ayush's GitHub stats" />
-<h3><img src="https://i.imgur.com/yQHTmCW.png" width="18" /> Where to find me</h3>
-<a href="https://github.com/AyushSoni-git/"> <img alt="Github" width="40px" src="https://i.imgur.com/RjscN2M.png" /></a>
-<a href="https://www.linkedin.com/in/soni-ayush/"> <img alt="Linkedin" width="40px" src="https://i.imgur.com/Hp2w5wM.png" /></a>
-<a href="https://t.me/EngggAsh"> <img alt="Telegram" width="40px" src="https://i.imgur.com/8uCq4fi.png" /> </a>
-<a href="https://dsc.bio/CyberAyu"> <img alt="Discord" width="40px" src="https://i.imgur.com/allk32s.png" /></a>
-<a href="https://forum.xda-developers.com/m/cyberayu.12306141/"> <img alt="XDA" width="40px" src="https://i.imgur.com/ZkDQREa.png" /></a>
-<a href="https://open.spotify.com/user/vpqyvlcve9o7tmt38lh28jkyu"> <img alt="Spotify" width="40px" src="https://i.imgur.com/TuGJlcZ.png" /> </a>
-<a href="https://gist.github.com/AyushSoni-git/"> <img alt="Gist" width="40px" src="https://i.imgur.com/6w4HNmL.png" /></a>
-<a href="https://www.sololearn.com/profile/21962488"> <img alt="Sololearn" width="40px" src="https://i.imgur.com/6mnh2V5.png" /></a>
-<a href="https://www.deviantart.com/cyber-ayu"> <img alt="Devintart" width="40px" src="https://i.imgur.com/YWUKoPE.png" /></a>
-<a href="https://pypi.org/user/CyberAyu21/"> <img alt="Pypi" width="40px" src="https://i.imgur.com/901ps8h.png" /></a>
-<a href="https://myanimelist.net/profile/CyberAyu"> <img alt="MAL" width="40px" src="https://i.imgur.com/TnZcuA4.png" /></a>
-<a href="https://medium.com/@cyberAyu"> <img alt="Medium" width="40px" src="https://i.imgur.com/HvRIk6L.png" /></a>
-<br />
-<br />
-<h3 align="left"> <img src="https://i.imgur.com/84QPnNl.png" width="18" /> Languages and Tools:</h3>
-<p align="left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+  <img src="https://i.imgur.com/PhMsL5F.gif" width="300" alt="animated hello"/>
+  <img src="https://i.imgur.com/uDZO0ho.gif" alt="Hello" width="250" />
 </p>
-<br />
-<p><img src="https://i.imgur.com/JgaEjcz.png" width="13" /> <b>Last refresh:</b> Tuesday, 27 September, 02:07 BST</p>
+
+<p>
+  Hey, I'm <b>Ayush Soni</b> — a <b>Backend Software Engineer</b> with 2+ years of experience building scalable Java & Spring Boot microservices for enterprise platforms. <br/>
+  Currently working at <b>Virtusa, Pune</b> 🇮🇳, originally from <b>Rawatbhata, India</b>. <br/><br/>
+  🎓 B.Tech in Computer Science & Engineering (AI & Data Science) — DIT University, Dehradun <br/>
+  📜 Oracle Certified Professional: <b>Java SE 11 Developer</b>
+</p>
+
+---
+
+### 🚀 What I do
+
+- ⚙️ Design & maintain **enterprise-grade Spring Boot microservices** and REST APIs
+- ⚡ Improved API response times by **30%** through SQL optimisation & strategic indexing
+- 🗄️ Reduced report generation time by **40%** by rewriting complex Oracle & PostgreSQL queries
+- 📡 Integrate **Apache Kafka** for async, fault-tolerant, event-driven architectures
+- 🤖 Automate multi-step workflows with **Camunda BPM** — cut manual intervention by 50%
+- 🔒 Implement **OAuth2 / JWT** security within Spring Security across microservices boundaries
+- 🛠️ Contribute to **CI/CD pipelines** via Jenkins & GitLab
+
+---
+
+### 🧰 Languages and Tools
+
+<p align="left">
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <!-- Spring -->
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a>
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
+  <!-- Oracle -->
+  <a href="https://www.oracle.com/database/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
+  <!-- Kafka -->
+  <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+  <!-- Redis -->
+  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></a>
+  <!-- Jenkins -->
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
+  <!-- GitLab -->
+  <a href="https://about.gitlab.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/></a>
+  <!-- React -->
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  <!-- Maven -->
+  <a href="https://maven.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/></a>
+  <!-- IntelliJ -->
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📊 My Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=AyushSoni-git&show_icons=true&theme=radical" alt="Ayush's GitHub stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSoni-git&layout=compact&theme=radical" alt="Top Languages" />
+
+---
+
+### 🏆 Certifications
+
+- ☕ **Oracle Certified Professional: Java SE 11 Developer** — Oracle (Jan 2025)
+- 🤖 **Gen AI Assisted Engineer** — Virtusa (Dec 2024)
+- 🔄 **Agile Methodology** — Cognizant (Mar 2023)
+
+---
+
+### 🔗 Where to find me
+
+<p>
+  <a href="https://github.com/AyushSoni-git/"><img alt="Github" width="40px" src="https://i.imgur.com/RjscN2M.png"/></a>
+  <a href="https://www.linkedin.com/in/soni-ayush/"><img alt="LinkedIn" width="40px" src="https://i.imgur.com/Hp2w5wM.png"/></a>
+  <a href="mailto:soniayush2104@gmail.com"><img alt="Email" width="40px" src="https://i.imgur.com/6w4HNmL.png"/></a>
+  <a href="https://medium.com/@cyberAyu"><img alt="Medium" width="40px" src="https://i.imgur.com/HvRIk6L.png"/></a>
+  <a href="https://t.me/EngggAsh"><img alt="Telegram" width="40px" src="https://i.imgur.com/8uCq4fi.png"/></a>
+</p>
