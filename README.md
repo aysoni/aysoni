@@ -1,84 +1,209 @@
-<p>
-  <img src="https://i.imgur.com/PhMsL5F.gif" width="300" alt="animated hello"/>
-  <img src="https://i.imgur.com/uDZO0ho.gif" alt="Hello" width="250" />
-</p>
+<!-- Header SVG Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:b8f55a&height=200&section=header&text=Ayush%20Soni&fontSize=60&fontColor=b8f55a&fontAlignY=38&desc=Backend%20Software%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=58&descSize=16&descColor=a0a890&animation=fadeIn" width="100%"/>
+</div>
 
-<p>
-  Hey, I'm <b>Ayush Soni</b> — a <b>Backend Software Engineer</b> with 2+ years of experience building scalable Java & Spring Boot microservices for enterprise platforms. <br/>
-  Currently working at <b>Virtusa, Pune</b> 🇮🇳, originally from <b>Rawatbhata, India</b>. <br/><br/>
-  🎓 B.Tech in Computer Science & Engineering (AI & Data Science) — DIT University, Dehradun <br/>
-  📜 Oracle Certified Professional: <b>Java SE 11 Developer</b>
-</p>
+<!-- Typing animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=18&pause=1000&color=B8F55A&center=true&vCenter=true&width=600&lines=Building+scalable+microservices+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Apache+Kafka;30%25+faster+APIs+%E2%80%94+not+just+talk;Oracle+Certified+Java+SE+11+Developer+%E2%98%95" alt="Typing SVG" />
+  </a>
+</div>
 
----
+<br/>
 
-### 🚀 What I do
+<!-- Social badges -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/soni-ayush/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:soniayush2104@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://medium.com/@cyberAyu">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://t.me/EngggAsh">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://github.com/aysoni">
+    <img src="https://img.shields.io/github/followers/aysoni?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=b8f55a&labelColor=0d1117" alt="GitHub followers"/>
+  </a>
+</div>
 
-- ⚙️ Design & maintain **enterprise-grade Spring Boot microservices** and REST APIs
-- ⚡ Improved API response times by **30%** through SQL optimisation & strategic indexing
-- 🗄️ Reduced report generation time by **40%** by rewriting complex Oracle & PostgreSQL queries
-- 📡 Integrate **Apache Kafka** for async, fault-tolerant, event-driven architectures
-- 🤖 Automate multi-step workflows with **Camunda BPM** — cut manual intervention by 50%
-- 🔒 Implement **OAuth2 / JWT** security within Spring Security across microservices boundaries
-- 🛠️ Contribute to **CI/CD pipelines** via Jenkins & GitLab
-
----
-
-### 🧰 Languages and Tools
-
-<p align="left">
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/database/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></a>
-  <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
-  <a href="https://about.gitlab.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://maven.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/></a>
-</p>
+<br/>
 
 ---
 
-### 📊 My Stats
+## 👨‍💻 About Me
 
-<!-- Streak — working ✅ -->
+```java
+@Component
+public class AyushSoni implements BackendEngineer {
+
+    private final String name      = "Ayush Soni";
+    private final String role      = "Backend Software Engineer";
+    private final String company   = "Virtusa, Pune 🇮🇳";
+    private final String education = "B.Tech CSE (AI & DS) — DIT University";
+    private final String cert      = "Oracle Certified Professional: Java SE 11";
+
+    private final List<String> currentlyDoing = List.of(
+        "Building enterprise microservices with Spring Boot",
+        "Designing event-driven systems with Apache Kafka",
+        "Automating workflows using Camunda BPM",
+        "Securing APIs with OAuth2 & JWT"
+    );
+
+    @Override
+    public String getMotivation() {
+        return "Make APIs fast, systems resilient, code maintainable.";
+    }
+}
+```
+
+<br/>
+
+---
+
+## ⚡ Impact at a Glance
+
+<div align="center">
+
+| Metric | Result | How |
+|--------|--------|-----|
+| 🚀 API Response Time | **↓ 30%** | SQL optimisation + strategic indexing |
+| 🗄️ Report Generation | **↓ 40%** | Rewrote complex Oracle & PostgreSQL queries |
+| 🤖 Manual Intervention | **↓ 50%** | Camunda BPM workflow automation |
+| 📊 DB Processing Efficiency | **↑ 35%** | Oracle SQL schema redesign |
+| 🔍 Query Performance | **↑ 25%** | Indexed views + pagination |
+
+</div>
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Core**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+**Databases**
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Messaging & Workflow**
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Camunda](https://img.shields.io/badge/Camunda_BPM-FC5D0D?style=for-the-badge&logo=camunda&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Security & Testing**
+
+![OAuth2](https://img.shields.io/badge/OAuth2-3C3C3D?style=for-the-badge&logo=oauth&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Tools**
+
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+<br/>
+
+---
+
+## 🏗️ Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🏛️ **OR IT Governance Dashboard** | Enterprise compliance & operational risk monitoring for BT Group — sub-second response under concurrent load | `Spring Boot` `WebLogic` `Oracle SQL` `Hibernate` |
+| 🔍 **OR Imperium** | Automated discrepancy detection between network topology & inventory — millions of records per run | `Spring Boot` `Kafka` `PostgreSQL` `Camunda BPM` |
+| 🌐 **Social Media Backend** | Scalable REST APIs for user management, posts, likes & comments with server-side pagination | `Spring Boot` `PostgreSQL` `JUnit` `REST` |
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
 <a href="https://streak-stats.demolab.com">
-  <img src="https://streak-stats.demolab.com?user=aysoni&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=aysoni&theme=radical&hide_border=true&border_radius=8" alt="GitHub Streak" height="180"/>
 </a>
+
 <br/><br/>
 
-<!-- Profile summary — working ✅ -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aysoni&theme=radical" alt="Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aysoni&theme=radical" alt="Profile Summary" width="100%"/>
+
 <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aysoni&theme=radical" alt="Repos Per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aysoni&theme=radical" alt="Most Commit Language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aysoni&theme=radical" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aysoni&theme=radical" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aysoni&theme=radical" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aysoni&theme=radical&utcOffset=5.5" height="160"/>
+
+</div>
+
 <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aysoni&theme=radical" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aysoni&theme=radical&utcOffset=5.5" alt="Productive Time" />
 
 ---
 
-### 🏆 Certifications
+## 🏆 Certifications
 
-- ☕ **Oracle Certified Professional: Java SE 11 Developer** — Oracle (Jan 2025)
-- 🤖 **Gen AI Assisted Engineer** — Virtusa (Dec 2024)
-- 🔄 **Agile Methodology** — Cognizant (Mar 2023)
+<div align="center">
+
+![Oracle Java SE 11](https://img.shields.io/badge/Oracle_Certified_Professional-Java_SE_11_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+![Gen AI](https://img.shields.io/badge/Virtusa-Gen_AI_Assisted_Engineer_(Dec_2024)-0052CC?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+
+![Agile](https://img.shields.io/badge/Cognizant-Agile_Methodology_(Mar_2023)-1A73E8?style=for-the-badge&logo=agile&logoColor=white)
+
+</div>
+
+<br/>
 
 ---
 
-### 🔗 Where to find me
+## 📈 Contribution Activity
 
-<p>
-  <a href="https://github.com/aysoni/"><img alt="Github" width="40px" src="https://i.imgur.com/RjscN2M.png"/></a>
-  <a href="https://www.linkedin.com/in/soni-ayush/"><img alt="LinkedIn" width="40px" src="https://i.imgur.com/Hp2w5wM.png"/></a>
-  <a href="mailto:soniayush2104@gmail.com"><img alt="Email" width="40px" src="https://i.imgur.com/6w4HNmL.png"/></a>
-  <a href="https://medium.com/@cyberAyu"><img alt="Medium" width="40px" src="https://i.imgur.com/HvRIk6L.png"/></a>
-  <a href="https://t.me/EngggAsh"><img alt="Telegram" width="40px" src="https://i.imgur.com/8uCq4fi.png"/></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aysoni&theme=react-dark&hide_border=true&area=true&color=b8f55a&line=b8f55a&point=ffffff" width="100%" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b8f55a,50:1a1f2e,100:0d1117&height=120&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  <i>⭐ From <a href="https://github.com/aysoni">aysoni</a> — If you find my work helpful, consider leaving a star!</i>
+</div>
