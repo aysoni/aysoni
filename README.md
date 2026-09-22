@@ -38,22 +38,15 @@
 
 ## 👨‍💻 About Me
 
+Backend engineer who makes APIs fast and systems boring-in-a-good-way. I work mainly in Java and Spring Boot, building enterprise microservices at Virtusa, Pune 🇮🇳.
+
 ```java
 @Component
 public class AyushSoni implements BackendEngineer {
 
-    private final String name      = "Ayush Soni";
     private final String role      = "Backend Software Engineer";
-    private final String company   = "Virtusa, Pune 🇮🇳";
     private final String education = "B.Tech CSE (AI & DS) — DIT University";
     private final String cert      = "Oracle Certified Professional: Java SE 11";
-
-    private final List<String> currentlyDoing = List.of(
-        "Building enterprise microservices with Spring Boot",
-        "Designing event-driven systems with Apache Kafka",
-        "Automating workflows using Camunda BPM",
-        "Securing APIs with OAuth2 & JWT"
-    );
 
     @Override
     public String getMotivation() {
@@ -61,6 +54,12 @@ public class AyushSoni implements BackendEngineer {
     }
 }
 ```
+
+**Currently:**
+- 🔧 Building enterprise microservices with Spring Boot
+- 📡 Designing event-driven systems with Apache Kafka
+- ⚙️ Automating workflows using Camunda BPM
+- 🔐 Securing APIs with OAuth2 & JWT
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4fd1c5,100:0d1117&height=3&width=100%" width="100%"/>
 
@@ -164,7 +163,11 @@ public class AyushSoni implements BackendEngineer {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aysoni&theme=react-dark&hide_border=true&area=true&color=4fd1c5&line=4fd1c5&point=ffffff" width="100%" alt="Contribution Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aysoni/aysoni/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aysoni/aysoni/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/aysoni/aysoni/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
 </div>
 
 <br/>
